@@ -6,7 +6,7 @@
    * [1.2 Drawing Molecules](1-getting-started/2-drawing-molecules.md)
    * [1.3 Making Selections](1-getting-started/3-making-selections.md)
 * Building Molecules
-    * [2.1 Importing Molecules by Name](2-building-molecules/1-importing-molecules-by-name.md)
+   * [2.1 Importing Molecules by Name](2-building-molecules/1-importing-molecules-by-name.md)
    * [2.2 Importing from the Protein Data Bank (PDB)](2-building-molecules/2-importing-from-the-pdb.md)
    * [2.3 Building a Peptide](2-building-molecules/3-building-a-peptide.md)
    * [2.4 Building DNA or RNA](2-building-molecules/4-building-dna-rna.md)
