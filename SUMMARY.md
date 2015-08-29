@@ -25,8 +25,17 @@
    * [Measure Tool](4-tools/8-measure-tool.md)
    * [Align Tool](4-tools/9-align-tool.md)
 * Display Types
+   * [Different Display Styles](5-display-types/1-display-types.md)
 * Menus
+   * [File Menu](6-menus/1-file-menu.md)
+   * [Edit Menu](6-menus/2-edit-menu.md)
+   * [View Menu](6-menus/3-view-menu.md)
+   * [Build Menu](6-menus/4-build-menu.md)
+   * [Select Menu](6-menus/5-select-menu.md)
+   * [Extension Menu](6-menus/6-extensions-menu.md)
 * Optimizing Geometry
+   * [Introduction to Molecular Mechanics](7-optimizing-geometry/1-molecular-mechanics.md)
+   * [Finding Conformers of Molecules](7-optimizing-geometry/2-conformers.md)
+   * [Geometry Constraints](7-optimizing-geometry/3-constraints.md)
 * Extensions
 * Tutorials
-
