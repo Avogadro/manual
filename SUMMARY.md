@@ -15,7 +15,13 @@
    * [Auto-Optimize Tool](4-tools/7-auto-optimize-tool.md)
    * [Measure Tool](4-tools/8-measure-tool.md)
    * [Align Tool](4-tools/9-align-tool.md)
-* Building Molecules
+* Menus
+   * [File Menu](6-menus/1-file-menu.md)
+   * [Edit Menu](6-menus/2-edit-menu.md)
+   * [View Menu](6-menus/3-view-menu.md)
+   * [Build Menu](6-menus/4-build-menu.md)
+   * [Select Menu](6-menus/5-select-menu.md)
+   * [Extension Menu](6-menus/6-extensions-menu.md)* Building Molecules
    * [Importing Molecules by Name](2-building-molecules/1-importing-molecules-by-name.md)
    * [Importing from the Protein Data Bank (PDB)](2-building-molecules/2-importing-from-the-pdb.md)
    * [Building a Peptide](2-building-molecules/3-building-a-peptide.md)
@@ -37,13 +43,6 @@
    * [Geometry Constraints](7-optimizing-geometry/3-constraints.md)* Display Types
    * [Different Display Styles](5-display-types/1-display-types.md)
    * [Coloring Part of a Molecules](5-display-types/2-coloring-part-of-a-molecule.md)
-* Menus
-   * [File Menu](6-menus/1-file-menu.md)
-   * [Edit Menu](6-menus/2-edit-menu.md)
-   * [View Menu](6-menus/3-view-menu.md)
-   * [Build Menu](6-menus/4-build-menu.md)
-   * [Select Menu](6-menus/5-select-menu.md)
-   * [Extension Menu](6-menus/6-extensions-menu.md)
 * Tutorials
    * [Using QTAIM (Atoms in Molecules) Analysis](9-tutorials/1-using-qtaim-and-wfn.md)
    * [Viewing Vibrations](9-tutorials/2-viewing-vibrations.md)
