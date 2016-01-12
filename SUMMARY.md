@@ -44,9 +44,6 @@
    * [Build Menu](6-menus/4-build-menu.md)
    * [Select Menu](6-menus/5-select-menu.md)
    * [Extension Menu](6-menus/6-extensions-menu.md)
-* Extensions
-   * [ABINIT Input Generator](8-extensions/abinit-generator.md)
-   * [LAMMPS Input](8-extensions/lammps-input-for-water.md)
 * Tutorials
    * [Using QTAIM (Atoms in Molecules) Analysis](9-tutorials/1-using-qtaim-and-wfn.md)
    * [Viewing Vibrations](9-tutorials/2-viewing-vibrations.md)
@@ -54,3 +51,6 @@
    * [Viewing Molecular Orbitals](9-tutorials/4-viewing-molecular-orbitals.md)
    * [Viewing Electrostatic Potential Maps](9-tutorials/5-viewing-electrostatic-potential.md)
    * [Naming a Molecule](9-tutorials/6-naming-a-molecule.md)
+* Extensions
+   * [ABINIT Input Generator](8-extensions/abinit-generator.md)
+   * [LAMMPS Input](8-extensions/lammps-input-for-water.md)
