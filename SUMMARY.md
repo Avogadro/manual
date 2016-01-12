@@ -21,7 +21,8 @@
    * [View Menu](6-menus/3-view-menu.md)
    * [Build Menu](6-menus/4-build-menu.md)
    * [Select Menu](6-menus/5-select-menu.md)
-   * [Extension Menu](6-menus/6-extensions-menu.md)* Building Molecules
+   * [Extension Menu](6-menus/6-extensions-menu.md)
+* Building Molecules
    * [Importing Molecules by Name](2-building-molecules/1-importing-molecules-by-name.md)
    * [Importing from the Protein Data Bank (PDB)](2-building-molecules/2-importing-from-the-pdb.md)
    * [Building a Peptide](2-building-molecules/3-building-a-peptide.md)
@@ -40,7 +41,8 @@
 * Optimizing Geometry
    * [Introduction to Molecular Mechanics](7-optimizing-geometry/1-molecular-mechanics.md)
    * [Finding Conformers of Molecules](7-optimizing-geometry/2-conformers.md)
-   * [Geometry Constraints](7-optimizing-geometry/3-constraints.md)* Display Types
+   * [Geometry Constraints](7-optimizing-geometry/3-constraints.md)
+* Display Types
    * [Different Display Styles](5-display-types/1-display-types.md)
    * [Coloring Part of a Molecules](5-display-types/2-coloring-part-of-a-molecule.md)
 * Tutorials
