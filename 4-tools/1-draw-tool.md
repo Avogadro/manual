@@ -60,7 +60,9 @@ Bond order is changed through the "Bond Order" drop down menu, or by typing the 
 
 ## 8.
 
-For example, to create carbon dioxide, the general structure ("O-C-O") needs to be drawn, and then by left clicking the bonds in the molecule, double bonds will be created.
+Creating Carbon Dioxide:
+
+Begin drawing the "O-C-O" structure. After the structure is drawn, all you need to do is left click on the bonds. Left clicking on the bonds will create a double bond (shown below). 
 
 ![][8]
 
