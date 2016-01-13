@@ -70,7 +70,7 @@ Begin drawing the "O-C-O" structure. After the structure is drawn, all you need 
 
 ## 9.
 
-Under the "Extensions" menu, the geometry of a molecule can be optimized by selecting "Optimize Geometry".
+Once you've created your molecule, you can optimize it's geometry through the extensions menu. Selecting the "Extensions" menu, and clicking "Optimize Geometry" will provide your molecule with proper bond lengths and angles.
 
 ![][9]
 
