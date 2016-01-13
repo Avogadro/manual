@@ -52,7 +52,7 @@ If the "Adjust Hydrogens" box is checked, hydrogens in the molecule are automati
 
 ## 7.
 
-Bond order can be changed through the Bond Order drop down menu, or by typing the numbers "1", "2", or "3". Bonds can also be added to a molecule by left clicking on a bond that has already been created (this process cycles through single, double, and triple bonds). Right clicking on a bond will delete the bond, and the atom it's bonded to.
+Bond order is changed through the "Bond Order" drop down menu, or by typing the numbers "1", "2", or "3". Bonds are added by left clicking on a bond that has already been created. Right clicking on a bond deletes the bond, and the atom it's bonded to.
 
 ![][7]
 
