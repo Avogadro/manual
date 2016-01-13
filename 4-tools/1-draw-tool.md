@@ -26,7 +26,7 @@ Left clicking and dragging the mouse will generate a bond to another carbon atom
 
 ## 4.
 
-Different elements can be selected from the Element drop down menu. Typing the atomic symbol (e.g., "A-s" for Arsenic) is a shortcut for changing the selected element.
+Avogadro uses carbon as the default element. A different element can be selected through the "Element" drop down menu. Typing the atomic symbol (e.g., "A-s" for Arsenic) is a shortcut for changing the selected element.
 
 ![][4]
 
