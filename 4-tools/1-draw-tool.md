@@ -34,7 +34,9 @@ Avogadro uses carbon as the default element. A different element can be selected
 
 ## 5.
 
-For example, if you wanted to create water, you can type in "O", or select "Oxygen (8)" from the drop down menu and click on the black display. 
+Let's say you wanted to create water. You can either type in "O", or select "Oxygen (8)" from the drop down menu, and then click on the black display. 
+
+Left clicking on an atom that has already been generated will also change the element. In this case, clicking on the initial carbon atom changed it into an oxygen atom.
 
 ![][5]
 
