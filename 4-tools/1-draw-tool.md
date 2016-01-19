@@ -44,7 +44,7 @@ Left clicking on an atom that has already been generated will also change the el
 
 ## 6.
 
-If the "Adjust Hydrogens" box is checked, hydrogens in the molecule are automatically adjusted to satisfy valency (as shown above).
+If the "Adjust Hydrogens" box is checked, hydrogen atoms in the molecule are automatically adjusted to satisfy valency (as shown above).
 
 ![][6]
 
