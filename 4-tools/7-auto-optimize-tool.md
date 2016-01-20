@@ -1,12 +1,12 @@
 # The Auto-Optimize Tool
 
-The Auto Optimize tool continuously optimizes molecular geometry through molecular mechanics. This tool also provides you with the ability to manipulate the molecule while the molecular geometry is being minimized.
+The Auto Optimize tool continuously optimizes molecular geometry through molecular mechanics. This tool provides an interactive interface, allowing you to manipulate a molecule while it's molecular geometry is being optimized.
 
 ![][1]
 
 [1]: images/7-auto-optimize-tool/27bc0d24-9f97-4a7c-9910-437a3543a1a1.png
 #### Force Fields & Algorithms
-The Auto-Optimization settings provide several force field options. The default force field is UFF or the Universal Force Field. This force field is capable of reproducing the most structural features across the periodic table. However, depending on the molecule being tested, the other force fields may be better suited to optimize the molecular parameters. The force field options are shown below. For more information on force fields refer to the optimizing geometry section of this lab manual.
+The Auto-Optimization settings provide several force field options. The default force field in Avogadro is UFF (Universal Force Field). UFF can generally reproduce the most structural features across the periodic table. However, depending on the molecule being optimized, the other force fields may be better suited to optimize the molecular parameters. The force field options are shown below. For more information on force fields refer to the optimizing geometry section of this lab manual.
 
 ![][2]
 
@@ -23,28 +23,29 @@ Avogadro also has the ability to apply specific algorithms dependent on your nee
 ![][4]
 
 [4]: images/7-auto-optimize-tool/eb1ab87c-4dbf-408d-b14b-4079675aac43.png
-#### Fixing & Ignoring Selected Atoms
+#### Fixing & Ignoring Selections
 If necessary, atoms can be fixed into place before optimization so that they don't move. This is done by going to the "Extensions" menu, holding your cursor over "Molecular Mechanics" and then selecting "Fix Selected Atoms". 
 
 ![][5]
 
 [5]: images/7-auto-optimize-tool/cb6ce9e3-bea8-4974-b81b-6d5cf29e0cab.png
 
-Clicking on "Start" will allow you to manipulate the molecule by left clicking on an atom and dragging your cursor. Notice that the fixed atoms don't bend with the manipulation of the molecule. Fixed atoms also provide the benefit of rotation during auto-optimization.
+Clicking on "Start" will allow you to manipulate the molecule by left clicking on an atom and dragging your cursor. Notice that the fixed atoms don't bend with the manipulation of the molecule. Clicking on fixed atoms also provide the benefit of rotation during auto-optimization.
 
 ![][6]
 
 [6]: images/7-auto-optimize-tool/33a0c439-2c92-4ac2-b2dc-5e09d0db8b40.png
 
-If the "Fixed atoms are movable" box is checked, the bonds between atoms can be manipulated into a new configuration. The new configuration will be just as immobile as the initial atom configuration, and the number of constraints will be displayed on the screen. 
+If the "Fixed atoms are movable" box is checked, the bonds between atoms can be manipulated into a new configuration. Manipulating a bond using this feature will lock that bond into place. Below is an exaggerated version of a bond manipulation using this feature. 
 
 ![][7]
 
 [7]: images/7-auto-optimize-tool/bd79e6ec-e7cb-4df3-81dd-7b61b1f5f627.png
 
-Essentially, the same thing takes place if the "Ignored atoms are movable" box is checked. However, ignored atoms (if the box is checked) *will *reoptimize once dragged. To ignore a selection select the "Extensions" drop down menu, hold your cursor over "Molecular Mechanics" option, and select "Ignore Selection". 
+ Selecting the "Extensions" drop down menu, holding your cursor over the "Molecular Mechanics" option, and choosing "Ignore Selection" will allow you to ignore a selection of atoms. Avogadro registers an ignored selection as if the selection doesn't exist. Therefore optimization only takes place in correspondence to atoms that aren't ignored. Atoms that have been ignored can still be adjusted if the "Ignored atoms are movable" box is checked.
 
-The molecule will reoptimize until dE=0 or "Stop" is clicked.
+ 
+Molecules will reoptimize until dE=0 or "Stop" is clicked.
 
 ![][8]
 
