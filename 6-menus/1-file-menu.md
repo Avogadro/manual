@@ -42,7 +42,7 @@ After selecting "Open", a file that has previously been saved is accessible thro
 
 [2]: images/1-file-menu/import.png
 
-"Import" will open chemical files that have already been created, from a database.
+"Import" will open chemical files stored in a database.
 
 ## Export
 
