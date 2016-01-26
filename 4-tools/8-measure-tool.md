@@ -12,13 +12,13 @@ The measure tool allows you to select and assess up to four atoms.
 
 [2]: images/8-measure-tool/f0834455-f16b-4392-8ff4-5bf434c1dd63.png
 
-As you click on atoms Avogadro will automatically calculate the distances between atoms in a respective order. For example, the distance between atom 1 and 2 is 1.376 Å. 
+As you click on atoms Avogadro will automatically calculate the distances between atoms in a respective order. For example, the distance between atom 1 and 2 is 1.376 Å (displayed below). 
 
 ![][3]
 
 [3]: images/8-measure-tool/6adb2241-2518-4a8e-a015-cbb087d4b0f1.png
 
-When three atoms are selected an angle is measured between the first and third atom, and the second atom is the vertex.
+Avogadro will also determine the angle between atoms, if at least three atoms have been selected. The second atom is used as the vertex. 
 
 ![][4]
 
