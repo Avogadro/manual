@@ -26,7 +26,7 @@ The first image displayed below is the orginal selection, and the second image d
 
 ## Select SMARTS...
 
-SMARTS **(****SMiles ARbitrary Target Specification)** is a more
+SMARTS **(**SMiles ARbitrary Target Specification) is a more
 general chemical language extension of SMILES. "Select SMARTS..."
 allows you to use this chemical language to select various atoms, or
 groups of atoms within the molecule. For example, typing "a" into the
