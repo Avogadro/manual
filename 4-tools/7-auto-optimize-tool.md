@@ -30,19 +30,19 @@ If necessary, atoms can be fixed into place before optimization so that they don
 
 [5]: images/7-auto-optimize-tool/cb6ce9e3-bea8-4974-b81b-6d5cf29e0cab.png
 
-Clicking on "Start" will allow you to manipulate the molecule by left clicking on an atom and dragging your cursor. Notice that the fixed atoms don't bend with the manipulation of the molecule. Clicking on fixed atoms also provide the benefit of rotation during auto-optimization.
+Clicking on "Start" will allow you to manipulate the molecule by left clicking on an atom and dragging your cursor. Notice that the fixed atoms don't bend with the manipulation of the molecule. 
 
 ![][6]
 
 [6]: images/7-auto-optimize-tool/33a0c439-2c92-4ac2-b2dc-5e09d0db8b40.png
 
-If the "Fixed atoms are movable" box is checked, the bonds between atoms can be manipulated into a new configuration. Manipulating a bond using this feature will lock that bond into place. Below is an exaggerated version of a bond manipulation using this feature. 
+If the "Fixed atoms are movable" box is checked, the bonds between atoms can be manipulated into a new configuration. Manipulating a bond using this feature will lock that bond into place, and display the number of constraints cast on that molecule. Below is an exaggerated version of a bond manipulation using this feature. 
 
 ![][7]
 
 [7]: images/7-auto-optimize-tool/bd79e6ec-e7cb-4df3-81dd-7b61b1f5f627.png
 
- Selecting the "Extensions" drop down menu, holding your cursor over the "Molecular Mechanics" option, and choosing "Ignore Selection" will allow you to ignore a selection of atoms. Avogadro registers an ignored selection as if the selection doesn't exist. Therefore optimization only takes place in correspondence to atoms that aren't ignored. Atoms that have been ignored can still be adjusted if the "Ignored atoms are movable" box is checked.
+ Selecting the "Extensions" drop down menu, holding your cursor over the "Molecular Mechanics" option, and choosing "Ignore Selection" will allow you to ignore a selection of atoms. Avogadro registers an ignored selection as if the selection doesn't exist. Therefore optimization only takes place in correspondence to atoms that aren't ignored. Atoms that have been ignored can still be adjusted if the "Ignored atoms are movable" box is checked, however they will not be optimized.
 
  
 Molecules will reoptimize until dE=0 or "Stop" is clicked.
