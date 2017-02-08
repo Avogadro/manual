@@ -1,6 +1,6 @@
 # Summary
 
-* [Preface](front.md)
+* [Preface](index.md)
 * Getting Started
    * [Introduction](getting-started/introduction.md)
    * [Drawing Molecules](getting-started/drawing-molecules.md)
