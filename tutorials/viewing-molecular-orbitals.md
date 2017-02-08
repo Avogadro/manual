@@ -1,5 +1,3 @@
----
----
 # Viewing Molecular Orbitals
 
 This feature requires a "checkpoint" or "formatted checkpoint" from quantum chemistry codes

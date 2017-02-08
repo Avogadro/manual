@@ -1,5 +1,3 @@
----
----
 # The Align Tool
 
 The align tool rotates, and translates a molecule(s) into a specific reference frame.

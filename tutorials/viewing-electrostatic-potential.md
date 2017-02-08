@@ -1,5 +1,3 @@
----
----
 # Viewing Electrostatic Potential Maps
 
 The electrostatic potential maps help to visualize charge distribution, and other charge related properties of molecules.

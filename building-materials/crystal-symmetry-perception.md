@@ -1,5 +1,3 @@
----
----
 # Crystal Symmetry Perception
 
 Calculation results often specify all atoms and translation vectors, but not the space group. Here we see how to perceive the space group from a set of crystallographic coordinates.

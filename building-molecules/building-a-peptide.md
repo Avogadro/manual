@@ -1,5 +1,3 @@
----
----
 # Building a Peptide
 
 A walkthrough on how to create a custom peptide model in Avogadro.

@@ -1,5 +1,3 @@
----
----
 # Different Display Types in Avogadro
 
 Avogadro comes equipped with various display types to aid in molecular interpretation. The default engine plugins include Axes, Ball and Stick, Cartoon, Dipole, Force, Hydrogen Bond, Label, Polygon, QTAIM, Ribbon, Ring, Simple Wireframe, Stick, Surface, Van der Waals Spheres, and Wireframe.

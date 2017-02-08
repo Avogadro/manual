@@ -1,5 +1,3 @@
----
----
 # Introduction
 
 Avogadro is a "molecular editor," designed to be easy to use to construct and view molecules and materials in 3D. It runs on Windows, Linux, and Mac.

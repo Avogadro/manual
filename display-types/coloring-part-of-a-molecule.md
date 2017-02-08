@@ -1,5 +1,3 @@
----
----
 # Coloring Part of a Molecule
 
 Coloring various parts of a molecule can provide a more visually stimulating way to display qualitative information.

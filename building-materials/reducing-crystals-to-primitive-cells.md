@@ -1,5 +1,3 @@
----
----
 # Reducing Crystals to Primitive Unit Cells
 
 Some simulations use "supercells" -- larger periodic boundary systems than the primitive unit cell. Here is a walk-through on reducing a large supercell to the primitive unit cell.

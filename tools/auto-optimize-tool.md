@@ -1,5 +1,3 @@
----
----
 # The Auto-Optimize Tool
 
 The Auto Optimize tool continuously optimizes molecular geometry through molecular mechanics. This tool provides an interactive interface, allowing you to manipulate a molecule while it's molecular geometry is being optimized.

@@ -1,5 +1,3 @@
----
----
 # ABINIT Generator
 
 Avogadro has a new interface to the open source solid-state code ABINIT, provided by one of the ABINIT developers, Prof. Matthieu Verstraete

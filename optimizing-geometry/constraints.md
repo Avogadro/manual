@@ -1,5 +1,3 @@
----
----
 # Constraints & Optimizations
 
 Avogadro allows for the optimization of an object, with respect to a variable(s). Below is one example of how constraints can be applied while optimizing a molecule.

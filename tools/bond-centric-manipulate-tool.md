@@ -1,5 +1,3 @@
----
----
 # The Bond-Centric Manipulate Tool
 
 The Bond-Centric Manipulate tool alters angles, bonds, and torsions of a molecule.

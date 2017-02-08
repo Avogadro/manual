@@ -1,5 +1,3 @@
----
----
 # Molecular Mechanics & Force Fields
 
 Avogadro comes equipped with multiple different force fields. Below is general information regarding the force fields to help you select the best optimization method.

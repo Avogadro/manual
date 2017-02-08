@@ -1,5 +1,3 @@
----
----
 # The Navigate Tool
 
 The navigation tool is used to pan, rotate, and scale the view of a molecule.

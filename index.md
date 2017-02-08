@@ -1,7 +1,5 @@
----
 layout: single 
 title: Avogadro: Molecular Editor and Visualization 
----
 
 # Avogadro: Molecular Editor and Visualization
 

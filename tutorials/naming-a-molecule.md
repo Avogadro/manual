@@ -1,5 +1,3 @@
----
----
 # Naming a molecule with PubChem
 
 Avogadro 1.1 and later includes support for naming compounds using the NIH Chemical Resolver system and the PubChem database.

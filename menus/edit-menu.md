@@ -1,5 +1,3 @@
----
----
 # The Edit Menu
 
 The edit menu administers basic file revisions. 

@@ -1,5 +1,3 @@
----
----
 # Viewing Spectral Properties
 
 This tutorial covers plotting vibrational spectra, but other types of spectra are possible with the output files from quantum chemical programs

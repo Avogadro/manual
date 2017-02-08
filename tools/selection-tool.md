@@ -1,5 +1,3 @@
----
----
 # The Selection Tool
 
 The selection tool allows the indiviual selection of atoms, bonds, or fragments.

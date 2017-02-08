@@ -1,5 +1,3 @@
----
----
 # Building a Polymer Unit Cell
 
 A walk-through on creating a unit cell (of a polymer) using Avogadro and the Align tool. This specific example uses Gaussian, but translation vectors for other programs can be performed similarly.
