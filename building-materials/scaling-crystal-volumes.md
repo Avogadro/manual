@@ -1,3 +1,5 @@
+---
+---
 # Scaling Crystal Volumes
 
 Avogadro 1.1 allows you to adjust the volume or spacing of a unit cell.

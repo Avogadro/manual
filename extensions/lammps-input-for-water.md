@@ -1,3 +1,5 @@
+---
+---
 # LAMMPS input for water
 
 ## Prepare initial geometry

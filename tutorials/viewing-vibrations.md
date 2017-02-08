@@ -1,3 +1,5 @@
+---
+---
 # Viewing Vibrations
 
 This feature allows visualizing vibrations from a "frequency" calculation with quantum chemistry codes (e.g., Gaussian, Q-Chem, etc.)

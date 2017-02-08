@@ -1,3 +1,5 @@
+---
+---
 # Building with SMILES
 
 SMILES (Simplified molecular-input line-entry system) allows you to build molecules through a string of text. If you have a SMILES string (e.g., copied from a paper or website) or prefer to enter one for a complicated molecule, Avogadro will build a 3D geometry from the SMILES.

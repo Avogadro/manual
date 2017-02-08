@@ -1,3 +1,5 @@
+---
+---
 # The Manipulate Tool
 
 The manipulate tool allows you to move atoms and selected fragments.

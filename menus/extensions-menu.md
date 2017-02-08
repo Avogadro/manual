@@ -1,3 +1,5 @@
+---
+---
 # The Extensions Menu
 
 The Extensions Menu is a catalog of computational plugins equipped with  Avogadro. These plugins can interact with molecules, generate input file dialogs for quantum codes, and create molecule property dialogs. 

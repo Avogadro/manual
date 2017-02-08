@@ -1,3 +1,5 @@
+---
+---
 # The Auto-Rotate Tool
 
 The auto rotate tool allows for the continuous rotation of a molecule. 

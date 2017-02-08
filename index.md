@@ -1,3 +1,8 @@
+---
+layout: single 
+title: Avogadro: Molecular Editor and Visualization 
+---
+
 # Avogadro: Molecular Editor and Visualization
 
 Avogadro is a free, open source molecular editor and visualization
@@ -16,7 +21,5 @@ This book would not be possible without the help and effort of many people, incl
 Funding for the Avogadro manual was provided by the [University of Pittsburgh Department of Chemistry](http://www.chem.pitt.edu/).
 
 -Taylor Cornell and Geoffrey Hutchison
-
 Summer 2015
-
 Pittsburgh, Pennsylvania

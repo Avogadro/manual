@@ -1,3 +1,5 @@
+---
+---
 # The View Menu
 
 The view menu gives the user the ability to add, and adjust the display views currently in use.
