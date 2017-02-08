@@ -1,6 +1,6 @@
 # The Extensions Menu
 
-The Extensions Menu is a list of plugins to Avogadro, including molecular mechanics geometry optimizations and interfaces to other computational chemistry packages.
+The Extensions Menu is a catalog of computational plugins equipped with  Avogadro. These plugins can interact with molecules, generate input file dialogs for quantum codes, and create molecule property dialogs. 
 
 ![][1]
 
@@ -28,7 +28,7 @@ Selecting "Animation" will open the animate trajectory dialog box shown below. F
 
 ### Setup Force Field...
 
-A dialog box will open when "Setup Force Field..." is selected. This dialog box provides you with the ability to choose the type of force field that would best optimize your molecular parameters. 
+A dialog box will open when "Setup Force Field..." is selected. This dialog box provides you with the ability to choose the type of force field, and algorithm that can best optimize your molecular parameters, and preferences. 
 
 ![Setup Force Field...][4]
 
@@ -68,11 +68,11 @@ A dialog box will open when "Setup Force Field..." is selected. This dialog box 
 
 ## Avogadro Extensions--Plugins
 
-Avogadro provides you with the ability to interface your molecules with other dialog based plugins. These extensions interact with a molecule to provide further molecular information, and additional computation abilities. These plugins include but aren't limited to GAMESS, Abinit, Dalton, GAMESS-UK, Gaussian, MOLPRO, MOPAC. NWChem, PSI4, Q-Chem, and LAMMPS.
+Avogadro provides you with the ability to interface your molecules with other dialog based plugins. These extensions interact with a molecule to provide further molecular information, and additional computation abilities. These plugins include but aren't limited to GAMESS, Abinit, Dalton, GAMESS-UK, Gaussian, MOLPRO, MOPAC, NWChem, PSI4, Q-Chem, and LAMMPS.
 
 ### General "How To" for Plugins
 
-Avogadro (as you will see below) can be used to display molecular orbitals, QTAIM, spectra, as well as create various surfaces. However, many of these features can not be used to their full potential without first running one of the plugins listed in the section above. Gaussian is one of the most common plugins used, due to it's wide range of basis sets/functions. 
+Avogadro (as you will see below) can be used to display molecular orbitals, QTAIM, spectra, as well as create surfaces. However, many of these features can not be used to their full potential without first running one of the plugins listed in the section above. Gaussian is one of the most common plugins used, due to it's wide range of basis sets/functions. 
 
 ### Running Gaussian
 

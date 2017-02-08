@@ -18,7 +18,7 @@ Clicking anywhere on the black display and dragging the mouse will tilt, and rot
 
 [3]: images/2-navigate-tool/5bdfcdc2-53a3-43e0-a35a-3f157a685ed8.png
 
-A molecule can also be rotated about an atom by clicking the atom and dragging the mouse. Depicted below, acetone is being rotated about it's initial carbon.
+A molecule can also be rotated about an atom by clicking the atom and dragging the mouse. Depicted below, acetone is being rotated about its initial carbon.
 
 ![][4]
 

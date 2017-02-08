@@ -82,7 +82,7 @@ The displayed data can also be modified according to your personal preference, o
 
 ## Invert Chirality
 
-"Invert Chirality" will reverse (invert) the initial configuration to the opposite R/S configuration.
+"Invert Chirality" will reverse (invert) the initial chirality to the opposite R/S configuration.
 
 ![Invert Chirality][11]
 

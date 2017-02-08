@@ -6,7 +6,7 @@ The manipulate tool allows you to move atoms and selected fragments.
 
 [1]: images/4-manipulate-tool/520ebec1-6470-4f93-af26-c94ac5ea6f9d.png
 
-If inserting a fragment, the manipulate tool is automatically selected so that the fragment can easily be rotated into position. 
+The manipulate tool is automatically selected when inserting a fragment. This allows the fragment to be rotated into position. 
 
 The "Translate by:" section allows you to easily translate the length of a bond (to a fragment or atom) into the desired positon. For a translation to take place, enter in the desired translation and then click "Apply".
 
@@ -14,7 +14,7 @@ The "Translate by:" section allows you to easily translate the length of a bond 
 
 [2]: images/4-manipulate-tool/0f89679e-9bee-4005-8793-fc96682ecd34.png
 
-The "Rotate around:" section allows you to rotate your selection around the geometry, or the origin. This section then gives you the ability to choose how many degrees to rotate the fragment. Click "Apply" once you've made your selection. 
+The "Rotate around:" section allows you to rotate your selection around the current geometry, or the origin. After choosing how many degrees to rotate your selection click "Apply".
 
 ![][3]
 

@@ -26,7 +26,7 @@ Left clicking and dragging the mouse will generate a bond to another carbon atom
 
 ## 4.
 
-Different elements can be selected from the Element drop down menu. Typing the atomic symbol (e.g., "A-s" for Arsenic) is a shortcut for changing the selected element.
+Avogadro uses carbon as the default element. A different element can be selected through the "Element" drop down menu. Typing the atomic symbol (e.g., "A-s" for Arsenic) is a shortcut for changing the selected element.
 
 ![][4]
 
@@ -34,7 +34,9 @@ Different elements can be selected from the Element drop down menu. Typing the a
 
 ## 5.
 
-For example, if you wanted to create water, you can type in "O", or select "Oxygen (8)" from the drop down menu and click on the black display. 
+Let's say you wanted to create water. You can either type in "O", or select "Oxygen (8)" from the drop down menu, and then click on the black display. 
+
+Left clicking on an atom that has already been generated will also change the element. In this case, clicking on the initial carbon atom changed it into an oxygen atom.
 
 ![][5]
 
@@ -42,7 +44,7 @@ For example, if you wanted to create water, you can type in "O", or select "Oxyg
 
 ## 6.
 
-If the "Adjust Hydrogens" box is checked, hydrogens in the molecule are automatically adjusted to satisfy valency (as shown above).
+If the "Adjust Hydrogens" box is checked, hydrogen atoms in the molecule are automatically adjusted to satisfy valency (as shown above).
 
 ![][6]
 
@@ -50,7 +52,7 @@ If the "Adjust Hydrogens" box is checked, hydrogens in the molecule are automati
 
 ## 7.
 
-Bond order can be changed through the Bond Order drop down menu, or by typing the numbers "1", "2", or "3". Bonds can also be added to a molecule by left clicking on a bond that has already been created (this process cycles through single, double, and triple bonds). Right clicking on a bond will delete the bond, and the atom it's bonded to.
+Bond order is changed through the "Bond Order" drop down menu, or by typing the numbers "1", "2", or "3". Bonds are added by left clicking on a bond that has already been created. Right clicking on a bond deletes the bond, and the atom it's bonded to.
 
 ![][7]
 
@@ -58,7 +60,9 @@ Bond order can be changed through the Bond Order drop down menu, or by typing th
 
 ## 8.
 
-For example, to create carbon dioxide, the general structure ("O-C-O") needs to be drawn, and then by left clicking the bonds in the molecule, double bonds will be created.
+Creating Carbon Dioxide:
+
+Begin drawing the "O-C-O" structure. After the structure is drawn, all you need to do is left click on the bonds. Left clicking on the bonds will create a double bond (shown below). 
 
 ![][8]
 
@@ -66,7 +70,7 @@ For example, to create carbon dioxide, the general structure ("O-C-O") needs to 
 
 ## 9.
 
-Under the "Extensions" menu, the geometry of a molecule can be optimized by selecting "Optimize Geometry".
+Once you've created your molecule, you can optimize it's geometry through the extensions menu. Selecting the "Extensions" menu, and clicking "Optimize Geometry" will provide your molecule with proper bond lengths and angles.
 
 ![][9]
 

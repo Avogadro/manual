@@ -34,7 +34,7 @@ Molecules can also be selected by clicking and dragging your cursor across the d
 
 [5]: images/5-selection-tool/3552dc0d-842c-45ac-895f-470df38a100f.png
 
-Clicking on "Add Center of Atoms" will display a black ball where the center of the atoms is found.
+Clicking on "Add Center of Atoms" will display a black ball where the center of the molecule is found.
 
 ![][6]
 

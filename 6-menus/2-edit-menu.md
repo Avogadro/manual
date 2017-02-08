@@ -16,7 +16,7 @@ The edit menu administers basic file revisions.
 
 ## Cut
 
-"Cut" will remove and copy the whole molecule or a selection.
+"Cut" will remove and copy a selection.
 
 ## Copy
 

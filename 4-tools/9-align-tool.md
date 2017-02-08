@@ -12,13 +12,15 @@ An alignment axis can be chosen from the "Axis" drop down menu. Typing "x", "y",
 
 [2]: images/9-align-tool/ec6c967d-5df0-41b8-b692-93123f8a0462.png
 
-You can also choose to align everything in the frame, or a specific molecule with the respective option in the "Align" drop down menu. To align a molecule, or everthing in the frame you will then need to click two atoms as reference points.
+The align tool can be used to align everything in the frame, or a specific molecule with "Molecule" option in the "Align" drop down menu. As shown below, two atoms will be used as reference points to align your selection.
 
 ![][3]
 
 [3]: images/9-align-tool/c1839173-f147-444d-b9c9-9ebb2e0a28f4.png
 
-Clicking "Align" will then reset the frame with the new alignment. The alignment axes are shown in the bottom left corner.
+Clicking "Align" will then reposition the molecule/frame with the new alignment. The alignment axes are displayed in the bottom left corner.
+* The red axis is designated as the X axis, green is designated as the Y axis, and blue is designated as the z axis. 
+
 
 ![][4]
 

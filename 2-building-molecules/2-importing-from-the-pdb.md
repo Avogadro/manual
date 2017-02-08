@@ -2,7 +2,7 @@
 
 You can read PDB files that you download yourself from [http://www.rcsb.org/](http://www.rcsb.org/pdb/home/home.do) or access the PDB code yourself.
 
-## Importing directly
+## Importing Directly
 
 Older versions of Avogadro have a bug with direct access to the PDB (since the website has moved) but using v 1.2.0, you can again use File > Import > Fetch from PDB... to download proteins.
 

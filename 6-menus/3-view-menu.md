@@ -90,7 +90,7 @@ There are two types of projection features (prospective, and orthographic projec
 
 ## Use Quick Render
 
-Adjusts the 3D molecular image in the viewing screen to achieve a faster image rendering on slow computers. **On most modern (2012 or later) computers, this is not necessary.**
+Quick render adjusts the 3D molecular image in the viewing screen to achieve a faster image rendering on slow computers. **On most modern (2012 or later) computers, this is not necessary.**
 
 ## All Molecules in File...
 
