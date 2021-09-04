@@ -21,3 +21,6 @@ Funding for the Avogadro manual was provided by the [University of Pittsburgh De
 -Taylor Cornell and Geoffrey Hutchison
 Summer 2015
 Pittsburgh, Pennsylvania
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTE2NDAxNDc4XX0=
+-->
