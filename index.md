@@ -14,11 +14,22 @@ In particular, this manual covers the new release of Avogadro 2, a major update,
 
 For new features, a "New in 2.0" heading is included.
 
+The revised manual also includes tips and warnings as call-out sections:
+
+{% hint style="danger" %}
+This is a warning - pay attention to something that may cause problems
+{% endhint %}
+
+{% hint style="info" %}
+This is a tip - something that can help you work better
+{% endhint %}
+
 ## Thanks
 
 This book would not be possible without the help and effort of many people, including Avogadro developers, translators, and users world-wide.
 
 Funding for the Avogadro manual was provided by the [University of Pittsburgh Department of Chemistry](http://www.chem.pitt.edu/).
 
--Taylor Cornell and Geoffrey Hutchison Summer 2015 Pittsburgh, Pennsylvania 
+* Version 1 - Summer 2015 - Taylor Cornell and Geoffrey Hutchison
+* Version 2 - Summer / Fall 2021 - Geoffrey Hutchison
 
