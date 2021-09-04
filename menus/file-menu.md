@@ -1,12 +1,8 @@
-# The File Menu
+# File Menu
 
 The file menu provides the standard abilities of creating a new file, opening & closing documents, as well as saving documents. It also yields the capability to import files from various databases.
 
-![][1]
-
-[1]: images/1-file-menu/b4a5b5bf-c747-4793-bcbb-caaca343b124.png
-
-
+![](../.gitbook/assets/b4a5b5bf-c747-4793-bcbb-caaca343b124.png)
 
 ## New
 
@@ -38,16 +34,13 @@ After selecting "Open", a file that has previously been saved is accessible thro
 
 ## Import
 
-![Import][2]
-
-[2]: images/1-file-menu/import.png
+![](../.gitbook/assets/import.png)
 
 "Import" will open chemical files stored in a database.
 
 ## Export
 
-![Export][3]
-
-[3]: images/1-file-menu/export.png
+![](../.gitbook/assets/export.png)
 
 "Export" will make files created in Avogadro suitable for other programs.
+

@@ -1,10 +1,8 @@
-# The Edit Menu
+# Edit Menu
 
-The edit menu administers basic file revisions. 
+The edit menu administers basic file revisions.
 
-![][1]
-
-[1]: images/2-edit-menu/ab0abbfc-1551-4c45-b76b-02573e62ed4c.png
+![](../.gitbook/assets/ab0abbfc-1551-4c45-b76b-02573e62ed4c.png)
 
 ## Undo
 
@@ -24,11 +22,9 @@ The edit menu administers basic file revisions.
 
 ## Copy As
 
-"Copy As" provides text representations of the molecules present in the viewing screen. For example, selecting "Copy As" and "SMILES", renders "C(=O)(C)C.O.O" as the output for the viewing screen below. This selection can then be pasted in a text document for external projects.
+"Copy As" provides text representations of the molecules present in the viewing screen. For example, selecting "Copy As" and "SMILES", renders "C\(=O\)\(C\)C.O.O" as the output for the viewing screen below. This selection can then be pasted in a text document for external projects.
 
-![Copy As][2]
-
-[2]: images/2-edit-menu/copy-as.png
+![](../.gitbook/assets/copy-as.png)
 
 ## Paste
 
@@ -40,12 +36,11 @@ The edit menu administers basic file revisions.
 
 ## Select All
 
-"Select All" highlights everything in the screen (this feature can also be found under the "Select" menu). 
+"Select All" highlights everything in the screen \(this feature can also be found under the "Select" menu\).
 
-![Select All][3]
-
-[3]: images/2-edit-menu/select-all.png
+![](../.gitbook/assets/select-all.png)
 
 ## Select None
 
-"Select None" will dismiss everything in the display (this feature is also found under the "Select" menu).
+"Select None" will dismiss everything in the display \(this feature is also found under the "Select" menu\).
+
