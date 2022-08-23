@@ -2,15 +2,15 @@
 
 ### Speed and Stability
 
-A major concern with Avogadro 1.x was speed on larger systems including biomolecules (protein, DNA/RNA) and materials.
+A major concern with Avogadro 1.x was speed on larger systems including biomolecules (protein, DNA/RNA) and materials. Even viewing / rotating large molecules would be slow, much less editing or performing optimizations or dynamics calculations.
 
-We also know that Avogadro 1.x would crash for multiple reasons - not least because we used older rendering code which was not well supported by modern graphics cards and drivers.
+We also know that Avogadro 1.x crashed for multiple reasons - not least because we used older rendering code which was not well supported by modern graphics cards and drivers.
 
-Avogadro 2.0 has been rewritten from the ground up.
+Avogadro 2.0 has been rewritten from the ground up. **Avogadro v2 was designed for fast modern rendering and improved stability. It is a platform to make it easy to build the next generation of molecular and materials visualization and editing tools.**
 
 ### Rendering
 
-Avogadro's new rendering framework easily handles tens and hundreds of thousands of atoms – not just because hardware has improved but by using new 3D graphics rendering methods.
+Avogadro's new rendering framework _**easily**_ handles tens and hundreds of thousands of atoms – not just because hardware has improved but by using new 3D graphics rendering methods which make better use of modern GPUs.
 
 ![COVID spike protein 6vxx \~25k atoms with real-time shadows and lighting](<../.gitbook/assets/Covid Spike (1).png>)
 
@@ -26,19 +26,31 @@ New cartoon / ribbon styles for proteins
 
 A major new feature in Avogadro 2 is the layer system. You can create new layers for a wide variety of tasks:
 
-* hide part of the molecule (e.g., put solvent fragments into one layer and hide it during analysis or editing)
+* hide part of the molecule (e.g., put solvent into one layer and hide it during analysis or editing)
 * change rendering options (e.g., display a protein with cartoon, but show a few key residues with ball-and-stick rendering)
 * lock a layer to prevent editing (e.g., moving a molecule to bind with a locked surface or protein active site)
 
-A new section on the Layer doc and tutorials on using layers for common tasks is available.
+A new section on the Layer dock and tutorials on using layers for common tasks is available.
 
 Future development will help use layers for complex simulations (e.g., QM/MM with one layer defining the quantum chemical fragments).
 
 ### Symmetry Properties
 
-Avogadro 2 includes a new tool to perceive molecular symmetry, display symmetry elements, and explore subgroups and classes of symmetric atoms.
+Avogadro 2 includes a new tool to perceive molecular symmetry, display symmetry elements, and explore subgroups and classes of symmetric atoms. You can find it under the Analysis => Properties submenu.
 
 ![Screenshot of symmetry detection (Ih) and rendering of symmetry elements on a C60 molecule](../.gitbook/assets/Symmetry.png)
+
+### Template Tool
+
+
+
+### Solvent Accessible and Solvent Excluded Surfaces
+
+
+
+### Flexible Electrostatics Models
+
+
 
 ### Python Commands / Plugins
 
