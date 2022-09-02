@@ -12,7 +12,7 @@ More about Avogadro, including development details and downloads can be found at
 
 In particular, this manual covers the new release of Avogadro 2, a major update, and includes major changes, the revised interface, and new features. Most sections include notes on changes from v1.0, 1.1, and 1.2 to the new 2.0 release.
 
-For new features, a "New in 2.0" heading is included.
+For new features, a "**New in 2.0**" heading is included.
 
 The revised manual also includes tips and warnings as call-out sections:
 
@@ -31,5 +31,4 @@ This book would not be possible without the help and effort of many people, incl
 Funding for the Avogadro manual was provided by the [University of Pittsburgh Department of Chemistry](http://www.chem.pitt.edu/).
 
 * Version 1 - Summer 2015 - Taylor Cornell and Geoffrey Hutchison
-* Version 2 - Summer / Fall 2021 - Geoffrey Hutchison
-
+* Version 2 - Summer / Fall 2022 - Geoffrey Hutchison
