@@ -1,6 +1,6 @@
 # Different Display Styles
 
-Avogadro comes equipped with various display types to aid in molecular interpretation. The default engine plugins include Axes, Ball and Stick, Cartoon, Dipole, Force, Hydrogen Bond, Label, Polygon, QTAIM, Ribbon, Ring, Simple Wireframe, Stick, Surface, Van der Waals Spheres, and Wireframe.
+Avogadro comes equipped with various display types to aid in molecular interpretation.
 
 ## Locating Display Types
 
@@ -26,7 +26,7 @@ Ball and Stick is the default plugin when Avogadro is opened. This plugin provid
 
 ## Cartoon
 
-The cartoon feature only applies to secondary biological structures \(α helix and β sheet\). Below is the cartoon for hemoglobin.
+The cartoon feature only applies to secondary biological structures (α helix and β sheet). Below is the cartoon for hemoglobin.
 
 ![](../.gitbook/assets/cartoon.png)
 
@@ -38,7 +38,7 @@ The Dipole plugin will display an overall net dipole if one is present.
 
 ## Force
 
-The Force plugin displays green arrows on atoms \(as shown below\), to qualitatively demonstrate the forces being applied to the atoms.
+The Force plugin displays green arrows on atoms (as shown below), to qualitatively demonstrate the forces being applied to the atoms.
 
 ![](../.gitbook/assets/force.png)
 
@@ -60,9 +60,9 @@ The Polygon feature takes metallic centers with three or more atoms bonded to th
 
 ![](../.gitbook/assets/polygon.png)
 
-## QTAIM \(Quantum Theory of Atoms in Molecules\)
+## QTAIM (Quantum Theory of Atoms in Molecules)
 
-QTAIM displays the implicit bonding that is theorized to take place between the hydrogens of organic crystals \(the implicit bonding is conveyed through dots\). This display type is utilized by importing a .wfn file from the "QTAIM", "Molecular Graph" selection under the "Extensions" menu. More information can be found on this process in the Tutorial section of this manual.
+QTAIM displays the implicit bonding that is theorized to take place between the hydrogens of organic crystals (the implicit bonding is conveyed through dots). This display type is utilized by importing a .wfn file from the "QTAIM", "Molecular Graph" selection under the "Extensions" menu. More information can be found on this process in the Tutorial section of this manual.
 
 ![](../.gitbook/assets/qtaim--quantum-theory-of-atoms-in-molecules-.png)
 
@@ -78,12 +78,6 @@ This feature distinguishes rings with different colors dependent on their size. 
 
 ![](../.gitbook/assets/ring.png)
 
-## Simple Wireframe
-
-This feature provides a basic wireframe display of a molecule.
-
-![](../.gitbook/assets/simple-wireframe.png)
-
 ## Stick
 
 Stick is another molecular visual display type, that renders a stick representation of a molecule.
@@ -92,7 +86,7 @@ Stick is another molecular visual display type, that renders a stick representat
 
 ## Surfaces
 
-Once a surface has been created \(Extensions Menu -&gt; Create Surfaces...\), the Surface display type can be used. This display type allows adjustments to the orbital, opacity, rendering, style, and color.
+Once a surface has been created (Extensions Menu -> Create Surfaces...), the Surface display type can be used. This display type allows adjustments to the orbital, opacity, rendering, style, and color.
 
 ![](../.gitbook/assets/surfaces.png)
 
@@ -107,4 +101,3 @@ The Van der Waals plugin provides the classic sphere rendered Van der Waals imag
 Unlike Simple Wireframe, Wireframe draws atoms and bond order into the molecule.
 
 ![](../.gitbook/assets/wireframe.png)
-
