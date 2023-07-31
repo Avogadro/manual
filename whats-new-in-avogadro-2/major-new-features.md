@@ -12,6 +12,8 @@ Avogadro 2.0 has been rewritten from the ground up. **Avogadro v2 was designed f
 
 Avogadro's new rendering framework _**easily**_ handles tens and hundreds of thousands of atoms – not just because hardware has improved but by using new 3D graphics rendering methods which make better use of modern GPUs.
 
+<figure><img src="../.gitbook/assets/Covid Spike (1).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/6vxx-yes.png" alt="Example of real-time shadows and ambient occlusion on the COVID spike protein (6vxx)"><figcaption><p>Example of real-time shadows and depth effects on COVID spike protein (PDB: 6vxx) - around 25,000 atoms</p></figcaption></figure>
 
 #### New real-time shadows and depth effects
@@ -52,6 +54,8 @@ Future development will help use layers for complex simulations (e.g., QM/MM wit
 
 Avogadro 2 includes a new tool to perceive molecular symmetry, display symmetry elements, and explore subgroups and classes of symmetric atoms. You can find it under the Analysis => Properties submenu.
 
+<figure><img src="../.gitbook/assets/Symmetry.png" alt=""><figcaption><p>Symmetric perception (<span class="math">I_h</span>) and rendering of inversion center and <span class="math">C_5</span>rotation axes in a <span class="math">C_{60}</span> molecule.</p></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/Symmetry.png" alt="Example of symmetry detection and rendering in C60" width="375"><figcaption><p>Example of symmetry detection and rendering on C60 molecule, showing inversion center and C5 rotations</p></figcaption></figure>
 
 ### Template Tool
@@ -90,7 +94,16 @@ Band structure diagrams with Yaehmop `eht_bind`
 
 With Avogadro 2, it's easier than ever to create a quick Python script and add it as an Avogadro command. These scripts can modify the molecule / atoms (e.g., add a solvent box), run analysis (e.g., assign R and S stereochemical labels with `rdkit`), optimize the geometry, create nanoparticles or nanotubes using installed Python modules (e.g., `pymatgen` or `ASE`), generate ice crystal structures, solvate molecules, and many more.
 
-You can also share your plugins through GitHub and others can download and instal or update to new versions through the "Download Extensions" command.
+Current plugin types include:
+
+* input generators
+* menu commands
+* electrostatics models
+* data (e.g., molecule and crystal fragments)
+
+You can also share your plugins through GitHub and others can download and install or update to new versions through the "Download Extensions" command:
+
+<figure><img src="../.gitbook/assets/Plugin Downloader.png" alt=""><figcaption><p>Download plugins interface to install new commands, input generators, etc.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Download.png" alt="" width="563"><figcaption><p>Download Python extension scripts for menu commands, input generators, file formats and more</p></figcaption></figure>
 
