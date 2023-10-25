@@ -2,27 +2,27 @@
 
 The electrostatic potential maps help to visualize charge distribution, and other charge related properties of molecules.
 
-Overall, let's say you want to determine visually if a specific proton has more or less electron density. First, you'll want to begin with your molecule of choice \(shown below is trifluoracetic acid\).
+Overall, let's say you want to determine visually if a specific proton has more or less electron density. First, you'll want to begin with your molecule of choice (shown below is trifluoracetic acid).
 
-![](../.gitbook/assets/a1c98ea0-9b27-4d24-8deb-2059a294e297.png)
+![File => Import => Download by Name... trifluoroacetic acid](<../.gitbook/assets/trifluoroacetic acid.png>)
 
-Then under the "Extensions" menu, select "Create Surfaces...".
+Then under the "Analysis" menu, select "Create Surfaces...".
 
-![](../.gitbook/assets/7f132e98-a851-4b7a-8489-054b093f32ea.png)
+![Analysis => Create Surfaces...](broken-reference)
 
-A dialog box will pop up providing you with various surface options. Under "Color By:" select "Electrostatic Potential", and then click "Calculate". After Avogadro calculates the surface select "Close".
+A dialog box will pop up providing you with various surface options. Under "Color By:" select "Electrostatic Potential", and optionally the electrostatic model (e.g., EEM or Gasteiger or MMFF94). You can also select a colormap (e.g., Balance, Coolwarm, Spectral, Turbo). Then click "Calculate". After Avogadro calculates the surface select "Close".
 
-![](../.gitbook/assets/376ff43c-b15e-42c4-9dd8-a3442b1c1d6b.png)
+![Create Surfaces - Color by Electrostatic Potential: Several electrostatics models are listed, including EEM, Gasteiger, MMFF94, etc.](../.gitbook/assets/CreateSurfacesDialog.png)
 
-An electrostatic surface has now been created. From this surface, you can interpret where the most electron density resides \(in the more red areas\), and where the least electron density resides \(deep blue areas\). You can further determine, and compare the acidity of various protons, and how surrounding atoms impact the overall electron density.
+An electrostatic surface has now been created. From this surface, you can interpret where the most electron density resides (in the more red areas), and where the least electron density resides (deep blue areas). You can further determine, and compare the acidity of various protons, and how surrounding atoms impact the overall electron density.
 
-![](../.gitbook/assets/6774032d-207d-421e-9bfb-0834a3213d6d.png)
+![Red = more negative charge (e.g, fluorine and oxygen atoms) Blue = more positive (i.e., acidic proton)](../.gitbook/assets/ElectrostaticMap.png)
 
 This example was taken from "Exploring the Acidity of Organic Molecules with Avogadro" written by Tamika Madison.
 
 ## Changing Surface Settings
 
-The opacity, rendition, and colors of the surface can the be changed by clicking the wrench next to the "Surfaces" display type.
+The opacity of the surface can the be changed by clicking the  "Meshes" display type and tweaking the display to your liking.
 
-![](../.gitbook/assets/changing-surface-settings.png)
+![Meshes display options](../.gitbook/assets/Meshes.png)
 

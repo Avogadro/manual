@@ -54,6 +54,3 @@
   * [Viewing Molecular Orbitals](tutorials/viewing-molecular-orbitals.md)
   * [Viewing Electrostatic Potential Maps](tutorials/viewing-electrostatic-potential.md)
   * [Using QTAIM (Atoms in Molecules) Analysis](tutorials/using-qtaim-and-wfn.md)
-* [Extensions](extensions/README.md)
-  * [ABINIT Input Generator](extensions/abinit-generator.md)
-  * [LAMMPS Input](extensions/lammps-input-for-water.md)

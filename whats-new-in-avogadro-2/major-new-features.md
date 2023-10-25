@@ -12,9 +12,7 @@ Avogadro 2.0 has been rewritten from the ground up. **Avogadro v2 was designed f
 
 Avogadro's new rendering framework _**easily**_ handles tens and hundreds of thousands of atoms – not just because hardware has improved but by using new 3D graphics rendering methods which make better use of modern GPUs.
 
-<figure><img src="../.gitbook/assets/Covid Spike (1).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/6vxx-yes.png" alt="Example of real-time shadows and ambient occlusion on the COVID spike protein (6vxx)"><figcaption><p>Example of real-time shadows and depth effects on COVID spike protein (PDB: 6vxx) - around 25,000 atoms</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Covid Spike (1).png" alt="" width="375"><figcaption><p>Van der Waals atom rendering of 6vxx protein (COVID spike)</p></figcaption></figure>
 
 #### New real-time shadows and depth effects
 
@@ -99,11 +97,10 @@ Current plugin types include:
 * input generators
 * menu commands
 * electrostatics models
+* force field models
 * data (e.g., molecule and crystal fragments)
 
 You can also share your plugins through GitHub and others can download and install or update to new versions through the "Download Extensions" command:
-
-<figure><img src="../.gitbook/assets/Plugin Downloader.png" alt=""><figcaption><p>Download plugins interface to install new commands, input generators, etc.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Download.png" alt="" width="563"><figcaption><p>Download Python extension scripts for menu commands, input generators, file formats and more</p></figcaption></figure>
 
